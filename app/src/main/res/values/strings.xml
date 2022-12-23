@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Roomirovanie</string>
+    <string name="save">save</string>
+    <string name="set_e_mail">Set e-mail</string>
+    <string name="set_age">Set age</string>
+    <string name="set_name">Set name</string>
+
+    <string name="err_name_length">error: min 3 symbols</string>
+    <string name="delete">delete all</string>
+    <string name="add_new_element">add new element</string>
+    <string name="example">example</string>
+</resources>

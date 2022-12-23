@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="MyEditText" parent="Theme.MaterialComponents.DayNight">
+<!--        <item name="colorControlNormal">#D32F2F</item>-->
+<!--        <item name="colorControlActivated">#F57C00</item>-->
+    </style>
+</resources>
